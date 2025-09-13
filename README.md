@@ -88,4 +88,4 @@ AVG DAMAGE 568
 - Translate parser keywords if your UI language differs.
 
 ## 🙌 Credits
-Built with ❤️ for Survev players by Whosty and ChatGPT.
+Built with ❤️ for Survev players by Whosty.
