@@ -54,14 +54,6 @@ pip install -r requirements.txt
 # 4) Launch
 streamlit run survev_spi_app.py
 ```
-
-## ☁️ Deploy (Streamlit Community Cloud)
-1. Push this repo to GitHub (you already did 🎉).  
-2. Go to https://share.streamlit.io → **New app**.  
-3. Select this repo, branch `main`, and file **`survev_spi_app.py`**.  
-4. Leave Python version default and let it read `requirements.txt`.  
-5. Click **Deploy**.
-
 ## 📋 Example paste (works in the text box)
 ```
 SOLO 280 GAMES
